@@ -93,7 +93,7 @@ Exemplo:
 
 ## 🏠 Tela Inicial
 
-![Tela Inicial](./Chamanopett/imagens/telainicial.png)
+![Tela Inicial](Chamanopett/imagens/telainicial.png)
 
 ---
 
@@ -101,7 +101,7 @@ Exemplo:
 
 Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 
-![Cadastro de Pets](./PetCrud/imagens/cadastropet.png)
+![Cadastro de Pets](PetCrud/imagens/cadastropet.png)
 
 ---
 
