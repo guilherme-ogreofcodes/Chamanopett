@@ -1,0 +1,48 @@
+﻿@model IEnumerable<PetCrud.Models.Animal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div style="text-align:center">
+    <h1>Cadastro de Pet</h1>
+</div>
+<p>
+    <a class="btn btn-primary" asp-action="Create">Cadastrar</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                Idade
+            </th>
+            <th>Raça
+               
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Raca)
+            </td>
+            <td>
+                    <a class="btn btn-primary"asp-action="Edit" asp-route-id="@item.IdAnimal">Editar</a> |
+                    <a class ="btn btn-info" asp-action="Details" asp-route-id="@item.IdAnimal">Detalhes</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdAnimal">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

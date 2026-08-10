@@ -1,0 +1,43 @@
+/* Fundo Geral da Aplicação */
+html, body {
+    background-color:#e0d5c9;
+    color: #3d2b1f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Barra de Navegação */
+.navbar, header nav {
+    background-color: #8c532b;
+    border-bottom: 3px solid #d97736;
+}
+
+    .navbar .nav-link,
+    .navbar-brand {
+        color: #f7f1eb;
+    }
+
+        .navbar .nav-link:hover {
+            color: #e2a05d;
+        }
+
+/* Botões Principais */
+.btn-primary {
+    background-color: #8c532b;
+    border-color: #8c532b ;
+    color: #ffffff;
+    border-radius: 25px ;
+}
+
+    .btn-primary:hover {
+        background-color: #d97736 ;
+        border-color: #d97736 ;
+
+/* Cards do Pet Shop */
+.card {
+    background-color: #ffffff ;
+    border: 1px solid #e0d5c9 ;
+    border-radius: 12px ;
+    box-shadow: 0 4px 10px rgba(74, 46, 27, 0.08) 
+}
+
+
