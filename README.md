@@ -93,11 +93,7 @@ Exemplo:
 
 ## 🏠 Tela Inicial
 
-Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
-
-```text
-![Tela Inicial](Chamanopett/imagens/telainicial.png)
-```
+![Tela Inicial](./Chamanopett/imagens/telainicial.png)
 
 ---
 
@@ -105,9 +101,7 @@ Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 
 Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 
-```text
-![Cadastro de Pets]Chamanopett/imagens/cadastropet.png
-```
+![Cadastro de Pets](./Chamanopett/imagens/cadastropet.png)
 
 ---
 
@@ -116,13 +110,13 @@ Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 ## 1. Clone o projeto
 
 ```bash
-https://github.com/guilherme-ogreofcodes/Chamanopett.git
+git clone https://github.com/guilherme-ogreofcodes/Chamanopett.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd ChamaNoPet
+cd Chamanopett
 ```
 
 ---
@@ -176,7 +170,7 @@ ou clique em **Iniciar** para executar a aplicação.
 # 📁 Estrutura do Projeto
 
 ```text
-ChamaNoPet
+Chamanopett
 │
 ├── Controllers
 ├── Models
@@ -184,6 +178,9 @@ ChamaNoPet
 ├── Data
 ├── Migrations
 ├── wwwroot
+├── imagens
+│   ├── telainicial.png
+│   └── cadastropet.png
 ├── appsettings.json
 ├── Program.cs
 └── README.md
@@ -222,7 +219,7 @@ Por meio do sistema, é possível manter os dados dos pets organizados e registr
 
 ### Desenvolvedor
 
-Guilherme Pereira Dantas de Oliveira Santos
+**Guilherme Pereira Dantas de Oliveira Santos**
 
 ---
 
@@ -232,8 +229,4 @@ Guilherme Pereira Dantas de Oliveira Santos
 
 ---
 
-<div align="center">
-
 ### ⭐ Se este projeto foi útil para você, deixe uma estrela no repositório!
-
-</div>
