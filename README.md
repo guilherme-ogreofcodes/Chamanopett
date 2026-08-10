@@ -96,7 +96,7 @@ Exemplo:
 Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 
 ```text
-![Tela Inicial](imagens/telainicial.png)
+![Tela Inicial](PetCrud/imagens/telainicial.png)
 ```
 
 ---
@@ -106,17 +106,7 @@ Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 
 ```text
-![Cadastro de Pets](imagens/cadastropet.png)
-```
-
----
-
-## 🩺 Atendimentos Veterinários
-
-Tela destinada ao controle e registro dos atendimentos veterinários realizados.
-
-```text
-![Atendimentos Veterinários](imagens/atendimentos.png)
+![Cadastro de Pets](PetCrud/imagens/cadastropet.png)
 ```
 
 ---
@@ -126,7 +116,7 @@ Tela destinada ao controle e registro dos atendimentos veterinários realizados.
 ## 1. Clone o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ChamaNoPet.git
+https://github.com/guilherme-ogreofcodes/Chamanopett.git
 ```
 
 Entre na pasta do projeto:
@@ -232,20 +222,18 @@ Por meio do sistema, é possível manter os dados dos pets organizados e registr
 
 ### Desenvolvedor
 
-**Seu Nome**
+Guilherme Pereira Dantas de Oliveira Santos
 
 ---
 
-### Projeto
+### Professor
 
-**Chama no Pet**
-
-Sistema de gerenciamento de pets e controle de atendimentos veterinários.
+**Wallace Oliveira dos Santos**
 
 ---
 
-### ⭐ Contribuição
+<div align="center">
 
-Se este projeto foi útil para você, deixe uma ⭐ no repositório!
+### ⭐ Se este projeto foi útil para você, deixe uma estrela no repositório!
 
-Sugestões, melhorias e contribuições são sempre bem-vindas.
+</div>
