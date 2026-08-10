@@ -89,3 +89,21 @@ A conexão com o banco de dados pode ser configurada no arquivo:
 
 ```text
 appsettings.json
+
+# 📷 Telas do Sistema
+
+## 🏠 Tela Inicial
+
+<p align="center">
+  <img src="./imagens/telainicial.png.png" alt="Tela Inicial" width="900">
+</p>
+
+---
+
+## 🐾 Cadastro de Pets
+
+<p align="center">
+  <img src="./imagens/cadastropet.png.png" alt="Cadastro de Pets" width="900">
+</p>
+
+---
