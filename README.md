@@ -93,7 +93,7 @@ Exemplo:
 
 ## 🏠 Tela Inicial
 
-![Tela Inicial](Chamanopett/imagens/telainicial.png.png)
+![Tela Inicial](PetCrud/imagens/telainicial.png.png)
 
 ---
 
