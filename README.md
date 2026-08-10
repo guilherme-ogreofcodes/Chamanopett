@@ -96,7 +96,7 @@ Exemplo:
 Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 
 ```text
-![Tela Inicial](ChamaNoPet/imagens/telainicial.png)
+![Tela Inicial](Chamanopett/imagens/telainicial.png)
 ```
 
 ---
@@ -106,7 +106,7 @@ Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 
 ```text
-![Cadastro de Pets](ChamaNoPet/imagens/cadastropet.png)
+![Cadastro de Pets](Chamanopett/imagens/cadastropet.png)
 ```
 
 ---
