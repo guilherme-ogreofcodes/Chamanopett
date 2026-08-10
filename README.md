@@ -106,7 +106,7 @@ Adicione aqui uma imagem ou captura de tela da página inicial do sistema.
 Tela responsável pelo cadastro e gerenciamento das informações dos pets.
 
 ```text
-![Cadastro de Pets](Chamanopett/imagens/cadastropet.png)
+![Cadastro de Pets]Chamanopett/imagens/cadastropet.png
 ```
 
 ---
